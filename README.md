@@ -4,6 +4,18 @@ This project is a web application developed with FastAPI that allows users to re
 
 ![Poke Berries](/images/poke_berries.png)
 
+## Poke Berries
+|        |        |        |        |        |        |        |        |
+|--------|--------|--------|--------|--------|--------|--------|--------|
+| <span style="color:red">cheri</span>    | <span style="color:blue">chesto</span>   | <span style="color:green">pecha</span>    | <span style="color:orange">rawst</span>    | <span style="color:purple">aspear</span>  | <span style="color:yellow">leppa</span>    | <span style="color:pink">oran</span>     | <span style="color:brown">persim</span>   |
+| <span style="color:teal">lum</span>     | <span style="color:maroon">sitrus</span>  | <span style="color:navy">figy</span>      | <span style="color:coral">wiki</span>     | <span style="color:indigo">mago</span>    | <span style="color:olive">aguav</span>    | <span style="color:lime">iapapa</span>  | <span style="color:gray">razz</span>     |
+| <span style="color:cadetblue">bluk</span>   | <span style="color:darkgoldenrod">nanab</span> | <span style="color:darkorchid">wepear</span> | <span style="color:deeppink">pinap</span> | <span style="color:crimson">pomeg</span> | <span style="color:darkcyan">kelpsy</span> | <span style="color:chocolate">qualot</span> | <span style="color:darkseagreen">hondew</span> |
+| <span style="color:darkred">grepa</span>  | <span style="color:darkslateblue">tamato</span> | <span style="color:darkorange">cornn</span> | <span style="color:darkslategray">magost</span> | <span style="color:darkviolet">rabuta</span> | <span style="color:crimson">nomel</span> | <span style="color:darkblue">spelon</span> | <span style="color:darkgreen">pamtre</span> |
+| <span style="color:darkmagenta">watmel</span> | <span style="color:darkolivegreen">durin</span> | <span style="color:darkkhaki">belue</span> | <span style="color:darkcyan">occa</span> | <span style="color:darkseagreen">passho</span> | <span style="color:darkgoldenrod">wacan</span> | <span style="color:darkslateblue">rindo</span> | <span style="color:darkred">yache</span> |
+| <span style="color:darkslategray">chople</span> | <span style="color:darkorchid">kebia</span> | <span style="color:darkorange">shuca</span> | <span style="color:darkolivegreen">coba</span> | <span style="color:darkviolet">payapa</span> | <span style="color:crimson">tanga</span> | <span style="color:darkblue">charti</span> | <span style="color:darkgreen">kasib</span> |
+| <span style="color:darkmagenta">haban</span>  | <span style="color:darkkhaki">colbur</span> | <span style="color:darkcyan">babiri</span> | <span style="color:darkseagreen">chilan</span> | <span style="color:darkgoldenrod">liechi</span> | <span style="color:darkslateblue">ganlon</span> | <span style="color:darkred">salac</span> | <span style="color:darkslategray">petaya</span> |
+| <span style="color:darkorchid">apicot</span> | <span style="color:darkorange">lansat</span> | <span style="color:darkolivegreen">starf</span> | <span style="color:darkviolet">enigma</span> | <span style="color:crimson">micle</span> | <span style="color:darkblue">custap</span> | <span style="color:darkgreen">jaboca</span> | <span style="color:darkmagenta">rowap</span> |
+
 ## Configuration
 
 
