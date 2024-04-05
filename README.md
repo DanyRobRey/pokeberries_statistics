@@ -18,6 +18,7 @@ This project is a web application developed with FastAPI that allows users to re
 
 ## Configuration
 
+<span style="color:blue">some *This is Blue italic.* text</span>
 
 ## Installation
 
