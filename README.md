@@ -18,7 +18,7 @@ This project is a web application developed with FastAPI that allows users to re
 
 ## Configuration
 
-<code style="color : aqua">TESTE</code>
+$${\color{red}Red}$$
 
 ## Installation
 
