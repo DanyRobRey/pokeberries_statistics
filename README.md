@@ -98,7 +98,7 @@ This section outlines the usage of two APIs that retrieve information of Berries
 
 
 1. Get Poke Berries Statistics:
--```http
+- ```http
 GET /allBerryStats: 
 
 This endpoint retrieves statistics of berries from the Poke API. It provides insights into various aspects of berries such as their growth times, including minimum, median, maximum, variance, mean, and the most frequent growth time among the retrieved berries.
@@ -107,7 +107,7 @@ Parameters: None
 Response: Returns a JSON object containing statistics about the berries.
 Response Example:
 
--```json
+- ```json
     {
         "berries_names": ["berry1", "berry2", ...],
         "min_growth_time": "2 hours",
@@ -119,7 +119,7 @@ Response Example:
     }
 
 2. Get Poke Berries Plot:
--```http
+- ```http
 GET /allBerryStatsPlot: 
 
 This endpoint generates a combined histogram and boxplot plot based on the statistics of Pokemon berries. It visualizes the distribution of growth times among the berries.
@@ -127,7 +127,7 @@ This endpoint generates a combined histogram and boxplot plot based on the stati
 Parameters: None
 Response: Returns the generated plot image in PNG format.
 Response Example:
-![Response Sample Image](plot_sample.jpg)
+![Response Sample Image](plot_sample.png)
 
 
 ## Pokémon Api Berries Documentation
