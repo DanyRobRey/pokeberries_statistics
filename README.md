@@ -19,6 +19,7 @@ This project is a web application developed with FastAPI that allows users to re
 ## Configuration
 
 $${\color{red}Red}$$
+#7fffff00[This is yellow text at 50% opacity]
 
 ## Installation
 
