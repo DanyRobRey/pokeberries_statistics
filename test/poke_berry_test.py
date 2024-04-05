@@ -1,10 +1,11 @@
-from starlette.testclient import TestClient
-from fastapi import HTTPException
-from api.route.route_poke import app
 import os
-import matplotlib
 import unittest
 from unittest.mock import patch
+import matplotlib
+from starlette.testclient import TestClient
+from fastapi import HTTPException
+
+from api.route.route_poke import app
 
 matplotlib.use("Agg")
 

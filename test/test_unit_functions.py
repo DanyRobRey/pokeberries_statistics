@@ -1,8 +1,9 @@
 import pytest
-from db.repository.berries import get_berry, get_berries
-from fastapi import HTTPException
-from unittest.mock import AsyncMock, patch
 import unittest
+from unittest.mock import AsyncMock, patch
+from fastapi import HTTPException
+
+from db.repository.berries import get_berry, get_berries
 
 
 @pytest.mark.asyncio

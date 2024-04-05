@@ -1,13 +1,14 @@
-# from fastapi import Depends
-from dotenv import load_dotenv
-from fastapi import HTTPException, status
+import os
+import asyncio
+from io import BytesIO
+
+import httpx
 import numpy as np
 import matplotlib.pyplot as plt
-from io import BytesIO
-import asyncio
-import httpx
-import os
+from dotenv import load_dotenv
+from fastapi import HTTPException, status
 import statistics
+
 from schemas.schema_poker_berry import PokerBerrysStats
 
 load_dotenv()

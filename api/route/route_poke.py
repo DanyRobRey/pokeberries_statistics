@@ -1,11 +1,8 @@
 from fastapi import FastAPI, APIRouter, HTTPException, status, Response
 from fastapi.responses import JSONResponse
+
 from db.repository.berries import get_berries_statistics, get_berries_statistics_plot
 from schemas import schema_poker_berry
-
-import numpy as np
-import matplotlib.pyplot as plt
-from io import BytesIO
 
 router = APIRouter()
 
