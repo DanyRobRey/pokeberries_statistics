@@ -18,7 +18,7 @@ This project is a web application developed with FastAPI that allows users to re
 
 ## Configuration
 
-<font color="blue">Este es un texto en azul.</font>
+<code style="color : aqua">TESTE</code>
 
 ## Installation
 
