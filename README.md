@@ -2,6 +2,8 @@
 
 This project is a web application developed with FastAPI that allows users to retrieve and visualize statistics related to Pokemon berries. With that users could gain insights into the characteristics and distribution of growth times among different types of berries in the Pokemon universe. The application aims to facilitate analysis and understanding of berry-related data.
 
+![Poke Berries](/images/poke_berries.png)
+
 ## Configuration
 
 
@@ -132,7 +134,7 @@ This endpoint generates a combined histogram and boxplot plot based on the stati
 Parameters: None  
 Response: Returns the generated plot image in PNG format.  
 Response Example:  
-![Response Sample Image](plot_sample.png)
+![Response Sample Image](/images/plot_sample.png)
 
 
 ## Pokémon Api Berries Documentation
