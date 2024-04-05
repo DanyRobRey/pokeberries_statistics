@@ -45,6 +45,11 @@ This project is a web application developed with FastAPI that allows users to re
 Use the same `.env-example` file to create get `.env` file.
 No need to change nothing inside
 
+## Sever Execution
+
+You can try out App at [Poke API](https://poke-berries-stats-b9b89f70f58b.herokuapp.com/).
+
+
 ## Local Execution
 
 Using Uvicorn
