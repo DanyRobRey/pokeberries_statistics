@@ -135,11 +135,11 @@ Response Example:
     {
         "berries_names": ["berry1", "berry2", ...],
         "min_growth_time": "2 hours",
-        "median_growth_time": "4 hours",
-        "max_growth_time": "8 hours",
-        "variance_growth_time": "2.5 hours",
-        "mean_growth_time": "5 hours",
-        "frequency_growth_time": "4 hours"
+        "median_growth_time": "15 hours",
+        "max_growth_time": "24 hours",
+        "variance_growth_time": "61.5 hours",
+        "mean_growth_time": "12.86 hours",
+        "frequency_growth_time": "18 hours"
     }
 
 2. Get Poke Berries Plot:
