@@ -116,7 +116,7 @@ This interactive documentation provides detailed information about each API endp
 
 This section outlines the usage of two APIs that retrieve information of Berries from PokeApi: You can use the included fastapi swagger tool or configure get methods using postman or insominia rest.
 
-__What is Poke Berry Growth Time?__
+__What is Poke Berry Growth Time?__  
 Corresponds to the time it takes the tree to grow one stage, in hours. Berry trees go through four of these growth stages before they can be picked.
 
 1. Get Poke Berries Statistics:
