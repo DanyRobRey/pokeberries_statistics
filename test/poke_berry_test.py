@@ -8,6 +8,7 @@ from unittest.mock import patch
 
 matplotlib.use("Agg")
 
+
 class TestPokeBerry(unittest.TestCase):
     """
     Class that contains test for Poke Berries Module.

@@ -94,7 +94,7 @@ This interactive documentation provides detailed information about each API endp
 
 ## Usage
 
-This section outlines the usage of two APIs that retrieve information of Berries from PokeApi:
+This section outlines the usage of two APIs that retrieve information of Berries from PokeApi: You can use the included fastapi swagger tool or configure get methods using postman or insominia rest.
 
 
 1. Get Poke Berries Statistics:
