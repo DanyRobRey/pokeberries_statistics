@@ -4,6 +4,7 @@ This project is a web application developed with FastAPI that allows users to re
 
 ![Poke Berries](/images/poke_berries.png)
 
+
 ## Poke Berries Codex
 |        |        |        |        |        |        |        |        |
 |--------|--------|--------|--------|--------|--------|--------|--------|
