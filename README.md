@@ -98,6 +98,8 @@ Run make file test command line:
 - ```bash
   make test -B
 
+![Test](/images/test.png)
+
 ## Observations
 
 - If you encounter permission issues while running the make commands, consider using sudo to execute them with administrative privileges.
