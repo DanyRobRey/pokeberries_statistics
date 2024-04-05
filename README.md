@@ -1,3 +1,8 @@
+<div style="display: flex; align-items: center;">
+  <img src="/images/pokeapi.png" alt="PokeAPI" width="100" height="100">
+  <h1 style="margin-left: 10px;">Pokemon Berries Statistics Project</h1>
+</div>
+
 # Pokemon Berries Statistics Project
 
 This project is a web application developed with FastAPI that allows users to retrieve and visualize statistics related to Pokemon berries. With that users could gain insights into the characteristics and distribution of growth times among different types of berries in the Pokemon universe. The application aims to facilitate analysis and understanding of berry-related data.
