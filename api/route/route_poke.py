@@ -17,6 +17,16 @@ app = FastAPI(
     response_model=schema_poker_berry.PokerBerrysStats,
 )
 async def get_berries_stats():
+    """
+    Endpoint to retrieve statistics for all berries.
+
+    Returns:
+        schema_poker_berry.PokerBerrysStats: Statistics for all berries.
+
+    Raises:
+        HTTPException: If there's a bad request.
+        Exception: If there's an internal server error.
+    """
     try:
         poker_berrys_stats, berries_growth_times = await get_berries_statistics()
 
@@ -35,6 +45,16 @@ async def get_berries_stats():
 
 @router.get("/allBerryStatsPlot")
 async def plot_image():
+    """
+    Endpoint to retrieve a plot of statistics for all berries.
+
+    Returns:
+        Response: A response containing the plot image in PNG format.
+
+    Raises:
+        HTTPException: If there's a bad request.
+        Exception: If there's an internal server error.
+    """
     try:
         poker_berrys_stats_plot = await get_berries_statistics_plot()
 

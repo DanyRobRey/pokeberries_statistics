@@ -71,7 +71,7 @@ async def get_berries_statistics():
     Retrieves statistics of berries from the Poke API.
 
     Returns:
-        dict: A dictionary containing statistics about the berries:
+        dict: A PokerBerrysStats containing statistics about the berries:
             - 'berries_names' (list): Names of the retrieved berries.
             - 'min_growth_time' (str): Minimum growth time among the retrieved berries.
             - 'median_growth_time' (str): Median growth time among the retrieved berries.

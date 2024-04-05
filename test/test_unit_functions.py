@@ -8,6 +8,10 @@ from db.repository.berries import get_berry, get_berries
 
 @pytest.mark.asyncio
 async def test_get_berry_failure():
+    """
+    Test function for handling failure scenario when getting details of a single berry.
+    
+    """
     with patch("httpx.AsyncClient") as MockAsyncClient:
         mock_client_instance = MockAsyncClient.return_value
         mock_client_instance.get.return_value = AsyncMock(status_code=500)
@@ -18,6 +22,10 @@ async def test_get_berry_failure():
 
 @pytest.mark.asyncio
 async def test_get_berries_failure():
+    """
+    Test function for handling failure scenario when getting details of multiple berries.
+
+    """
     with patch("httpx.AsyncClient") as MockAsyncClient:
         mock_client_instance = MockAsyncClient.return_value
         mock_client_instance.get.return_value = AsyncMock(status_code=500)
