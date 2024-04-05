@@ -4,7 +4,7 @@ This project is a web application developed with FastAPI that allows users to re
 
 ![Poke Berries](/images/poke_berries.png)
 
-## Poke Berries
+## Poke Berries Codex
 |        |        |        |        |        |        |        |        |
 |--------|--------|--------|--------|--------|--------|--------|--------|
 | $${\color{red}cheri}$$    | $${\color{blue}chesto}$$   | $${\color{green}pecha}$$    | $${\color{orange}rawst}$$    | $${\color{purple}aspear}$$  | $${\color{yellow}leppa}$$    | $${\color{pink}oran}$$     | $${\color{brown}persim}$$   |
